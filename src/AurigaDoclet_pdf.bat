@@ -1,0 +1,1 @@
+javadoc -subpackages misac -public -doclet "com.aurigalogic.doclet.core.Doclet" -docletpath "d:\BME\SZOFTLAB3\Misac\Dokumentáció\aurigadoclet\bin\AurigaDoclet.jar" -format pdf -out out.pdf
